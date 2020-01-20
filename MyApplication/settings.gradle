@@ -1,0 +1,2 @@
+include ':app', ':pickerview'
+rootProject.name='My Application'
